@@ -23,13 +23,13 @@ El eJPTv2 es una certificación de nivel básico y práctica en pruebas de penet
 Valida las habilidades en escenarios de seguridad ofensiva del mundo real.
 
 ## Laboratorios externos de la plataforma
-Anonymous
-Blue
-Simple
-Basic Pentesting
-Brooklyn Nine Nine
-ICE
-BLOG
+- Anonymous
+- Blue
+- Simple
+- Basic Pentesting
+- Brooklyn Nine Nine
+- ICE
+- BLOG
 From [TryHackMe](https://tryhackme.com/).
 
 ##  Contribuciones
