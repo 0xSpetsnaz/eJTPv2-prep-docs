@@ -16,7 +16,6 @@ El objetivo es proporcionar material estructurado y de alta calidad que pueda ay
 - Explotación de sistemas/redes
 - Escalada de privilegios
 - Técnicas posteriores a la explotación
-- Informes y documentación
 
 ##  Acerca de eJPTv2
 El eJPTv2 es una certificación de nivel básico y práctica en pruebas de penetración impartida por [INE Security](https://security.ine.com/certifications/ejpt-certification/).  
